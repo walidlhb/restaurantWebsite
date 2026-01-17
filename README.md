@@ -11,4 +11,4 @@ a restaurant website with a simple design with images and animation on scroll it
 
 # live preview
 
-<a href=" https://walidlhb.github.io/restaurantWebsite/">click here!</a>
+<a href="https://walidlhb.github.io/restaurantWebsite/">click here!</a>
